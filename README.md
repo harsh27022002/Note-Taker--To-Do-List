@@ -19,9 +19,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Grilli Desktop Demo](/Screenshot 2024-01-20 185133.png )
 
 ### Prerequisites
 
